@@ -1,0 +1,43 @@
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.introduction{
+    font-family: 'Times New Roman', Times, serif;
+    white-space: normal;
+    text-align: left;
+    font-size: 1.3em;
+    padding: 20px;
+    margin-top: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 30px;
+}
+  
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+/* 
+@media screen and (min-width: 600px) {
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+    .photos {
+
+        width: calc(50% - 2rem);
+      }
+  }
+
+  @media screen and (min-width: 1000px) {
+    .photos {
+        width: calc(33.3333% - 2rem);
+      }
+  } */
